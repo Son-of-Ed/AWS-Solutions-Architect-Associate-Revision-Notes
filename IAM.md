@@ -91,6 +91,4 @@ There are a couple of ways to connect your AD to IAM Identity Centre depending o
 	- If you are using Managed Microsoft AD to manage some of your directory objects, you need to establish a two-way trust relationship from Managed Microsoft AD in AWS to your on-prem AD.
 	- If you are using AD Connector, it will proxy any requests to your on-prem AD.
 
-
-
 #aws #iam

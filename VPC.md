@@ -249,5 +249,4 @@ Allows for traffic filtering to allow, block, or alert based on traffic that mee
 Active flow inspection means you can protect from network intrusion.
 Send logs to S3/CloudWatch Logs/Kinesis Date Firehose.
 
-
 #aws #networking 
