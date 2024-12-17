@@ -1,3 +1,4 @@
+# EC2
 ## Elastic Cloud Compute - EC2
 Compute resources which can be built with an OS of your choice and can have storage attached to them.
 Pay for the time used (pay for the first 60s and any use after that).
@@ -114,6 +115,5 @@ Used to create, validate, and automate the production of EC2 AMIs.
 ## VMWare Cloud
 Can extend your on-prem data centre infrastructure to run on AWS if you are already managing your VMs using VMWare Cloud on-prem.
 Use cases include cloud migration, managing hybrid workloads between the cloud and your on-prem data centre, and disaster recovery.
-
 
 #aws 

@@ -1,3 +1,4 @@
+# IAM
 Users, groups, and roles can be assigned JSON IAM policies which allow/restrict the actions they can perform in AWS.
 A user can belong to many groups but groups cannot belong to other groups.
 Roles can be assigned to users or groups.
@@ -35,7 +36,7 @@ IAM statements *must* include at least an action (list of actions to do/not do) 
 Can set permission boundaries to set the maximum allowed policies that can be added to a user. Therefore, if anyone tried to add additional permissions outside of the permissions boundary to a user/role, the permissions will not be added. This prevents people assigning arbitrary permissions to a user/role but allows users more autonomy over managing their permissions.
 
 The evaluation logic of permissions follows as such:
-![[Pasted image 20231220132819.png]]
+![](./Pictures/IAMEvaluationLogic.png)
 Any explicit denies in any of the policies being used will instantly deny the action.
 
 ## Credentials Report
@@ -89,7 +90,5 @@ There are a couple of ways to connect your AD to IAM Identity Centre depending o
 - For objects hosted partially or entirely on-prem then there are two option:
 	- If you are using Managed Microsoft AD to manage some of your directory objects, you need to establish a two-way trust relationship from Managed Microsoft AD in AWS to your on-prem AD.
 	- If you are using AD Connector, it will proxy any requests to your on-prem AD.
-
-
 
 #aws #iam

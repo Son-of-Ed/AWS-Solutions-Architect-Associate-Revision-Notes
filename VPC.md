@@ -1,3 +1,4 @@
+# VPC
 Virtual private clouds are private networks that span all of the AZs within a region so can be used to deploy resources regionally.
 An AZ is a collection of one or more data centres in the same location.
 You can have a soft maximum of 5 VPCs per region.
@@ -247,6 +248,5 @@ Supports 1000s of rules for the following:
 Allows for traffic filtering to allow, block, or alert based on traffic that meets certain rules.
 Active flow inspection means you can protect from network intrusion.
 Send logs to S3/CloudWatch Logs/Kinesis Date Firehose.
-
 
 #aws #networking 

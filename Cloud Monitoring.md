@@ -1,3 +1,4 @@
+# Cloud Monitoring
 ## CloudWatch Metrics
 Get metrics of any AWS services e.g. billing, CPU usage, status checks, network, reads/writes, other general usage metrics. All billing data is stored in the **US East (N. Virginia) - us-east-1** region.
 You can monitor a metric and each metric will have up to 30 dimensions e.g. instance ID, environment etc.
