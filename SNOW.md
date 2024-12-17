@@ -1,3 +1,4 @@
+# SNOW
 The SNOW family of products are portable offline devices used to bring computational resources closer to data sources which can help reduce latency and save bandwidth. The SNOW products are also useful  for data migration into and out of AWS (specifically into and out of S3 buckets and block storage).
 **NOTE: You cannot put SNOW data directly into the S3 Glacier tier when it is uploaded to S3, you have to first load it into S3 then create a lifecycle policy.**
 
@@ -20,10 +21,5 @@ All of the above services can run EC2s and Lambda functions.
 ## OpsHub
 This is a downloadable programme that allows you to interact with your SNOW devices.
 You can transfer files, launch + manage instances running on SNOW devices, monitor device metrics, and launch compatible AWS services on your devices.
-
-
-
-
-
 
 #aws

@@ -1,3 +1,4 @@
+# Load Balancing + Auto-Scaling
 High Availability - running your system across 2 or more AZs to prevent outages/data loss in the event of data centre loss.
 ## Scalability
 How well a system can scale up (increase performance of instances) or scale out (increase number of instances).

@@ -1,3 +1,4 @@
+# Storage
 ## EBS Volumes
 Storage devices attached to EC2s over a network and are mapped to a particular AZ.
 They are provisioned with a particular size (can be increased while active) and IOPS.

@@ -1,3 +1,4 @@
+# Databases + Analytics
 Databases are structured data stores that use indexes to rapidly query the data.
 
 Relational database - data which is strongly linked to each other e.g. Excel, SQL, OLTP

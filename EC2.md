@@ -1,3 +1,4 @@
+# EC2
 ## Elastic Cloud Compute - EC2
 Compute resources which can be built with an OS of your choice and can have storage attached to them.
 Pay for the time used (pay for the first 60s and any use after that).

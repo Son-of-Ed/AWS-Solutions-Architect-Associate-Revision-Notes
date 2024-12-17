@@ -1,3 +1,4 @@
+# Decoupling Applications
 Services need to communicate with each other. The are two types of app communication:
 1. Synchronous (app to app) communication
 2. Asynchronous (app to queue to app) communication

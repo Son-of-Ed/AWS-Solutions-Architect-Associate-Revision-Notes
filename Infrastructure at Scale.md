@@ -1,3 +1,4 @@
+# Infrastructure At Scale
 ## CloudFormation
 The proprietary IaC tool on AWS that creates templates in JSON/yaml to provision infrastructure in AWS. You can also get a handy networking graph to see how your infrastructure us connected up.
 Only pay for the resources you create.

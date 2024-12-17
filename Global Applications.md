@@ -1,3 +1,4 @@
+# Global Applications
 Better to deploy apps globally so that global users have decreased latency.
 Distributed applications also provide better disaster recovery and are harder to attack since they would have to attack all data centres at once.
 Some AWS services are required to be global in scope such as IAM, CloudFront, Route 53 and WAF.

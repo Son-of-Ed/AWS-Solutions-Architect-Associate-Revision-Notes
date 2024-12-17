@@ -1,3 +1,4 @@
+# IAM
 Users, groups, and roles can be assigned JSON IAM policies which allow/restrict the actions they can perform in AWS.
 A user can belong to many groups but groups cannot belong to other groups.
 Roles can be assigned to users or groups.

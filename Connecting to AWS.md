@@ -1,3 +1,4 @@
+# Connecting to AWS
 There are a few methods for your to make changes in your AWS account:
 - AWS CLI - perform commands from your terminal
 - CloudShell - perform commands from a terminal in the AWS console *NOTE: limited to certain regions* 

@@ -1,3 +1,4 @@
+# Machine Learning
 ## Rekognition
 Used to find object, people, text, and scenes in images and videos using ML.
 Creates a database of "familiar faces" to use in future comparisons.
