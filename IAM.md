@@ -36,7 +36,7 @@ IAM statements *must* include at least an action (list of actions to do/not do) 
 Can set permission boundaries to set the maximum allowed policies that can be added to a user. Therefore, if anyone tried to add additional permissions outside of the permissions boundary to a user/role, the permissions will not be added. This prevents people assigning arbitrary permissions to a user/role but allows users more autonomy over managing their permissions.
 
 The evaluation logic of permissions follows as such:
-![[Pasted image 20231220132819.png]]
+![](./Pictures/IAMEvaluationLogic.png)
 Any explicit denies in any of the policies being used will instantly deny the action.
 
 ## Credentials Report

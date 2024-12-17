@@ -132,8 +132,8 @@ Enterprise
 - Infrastructure, architecture, operations reviews
 - Can get responses in less than 15 minutes
 
-![pic1](./Pictures/SupportPlan1.png)
-![pic2](./Pictures/SupportPlan2.png)
+![](./Pictures/SupportPlan1.png)
+![](./Pictures/SupportPlan2.png)
 
 ## Credits
 Credits are applied in the following order:
