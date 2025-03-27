@@ -37,7 +37,7 @@ CIDR ranges consist of:
 - Subnet mask - how many bits can change in the IP
 	- /X - there are $2^{32-\text{X}}$ IPs in the range for IPv4 (there would be $2^{128-\text{X}}$ for IPv6).
 IP addresses can vary from 0.0.0.0 to 255.255.255.255.
-192.168.0.253/30 -> you can have from 192.168.0.253 up to 192.168.1.1
+192.168.0.254/30 -> you can have from 192.168.0.254 up to 192.168.1.1
 The maximum CIDR range in AWS is /16
 
 The Internet Assigned Numbers Authority (IANA) established specific blocks of IPv4 addresses for private (LAN) addresses and public (internet) addresses:
